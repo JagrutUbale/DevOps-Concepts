@@ -21,20 +21,21 @@
 
   ![Learning Git-_MAIN_](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/1.png)
 
-For <u>**Extra Credit**</u>, complete <b><u>"Advanced Topics". (5%)</b></u>
+* For <u>**Extra Credit**</u>, complete <b><u>"Advanced Topics". (5%)</b></u>
 
 ![Extra Credits](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/2.png)
 
-Remote:<br>
+
+* **Remote:**<br>
 ![Extra](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/3.png)
 
 
 
-3. Hook Script
+##Hooks (20)
 
    * The link to the hook Script can be found here
       
-          [LINK](https://github.ncsu.edu/vbhat/HookScript/blob/master/post-commit)
+[LINK](https://github.ncsu.edu/vbhat/HookScript/blob/master/post-commit)
 
 4. [Sreencast](https://youtu.be/cQyJzsPMcxU)
  
