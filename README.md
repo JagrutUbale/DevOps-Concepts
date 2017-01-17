@@ -22,7 +22,6 @@
   ![Learning Git-_MAIN_](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/1.png)
 
 * For <u>**Extra Credit**</u>, complete <b><u>"Advanced Topics". (5%)</b></u>
-
 ![Extra Credits](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/2.png)
 
 
