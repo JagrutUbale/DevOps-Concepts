@@ -37,10 +37,14 @@
 
    * The link to the hook Script can be found here
       
-[LINK to hook file ](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/post-commit)
+	 [LINK to hook file ](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/post-commit)
 
 ##Screencast (20)
 
 * [Sreencast](https://youtu.be/pOWYzFxqKT4)
+
+
+##Concepts (20)
+
  
 
