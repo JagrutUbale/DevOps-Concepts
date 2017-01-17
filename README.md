@@ -23,11 +23,13 @@
 
 * For <u>**Extra Credit**</u>, complete <b><u>"Advanced Topics". (5%)</b></u>
 <br>
+
 ![Extra Credits](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/2.png)
 
 
 * **Remote:**
 <br>
+
 ![Extra](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/3.png)
 
 
