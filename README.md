@@ -48,8 +48,7 @@
 
 
 <ol>
-Questions:
-
+<br>
 <li> In your own words, explain the difference between continuous integration, continuous delivery, and continuous deployment.</li>
 
 <u><b>Answer</b></u>
@@ -66,39 +65,50 @@ Continuous Deployment can defined as a practice where incremental software chang
 <a href="http://stackoverflow.com/questions/28608015/continuous-integration-vs-continuous-delivery-vs-continuous-deployment">Source</a>
 
 </ul>
-
+<br>
 <li>How does DevOps team model (e.g., site reliability engineer) differ than a NoOps team model (e.g. Netflix team)? What differences in architecture allow for a NoOps model?</li>
-<ul>
+<ul><br>
+
 <li>With the rise in DevOps, it becoming pretty common beleif that if development teams can be empowered to move things from test and development and into operations, then why not make them responsible for maintaining that code in the production environment? This is giving rise to NoOps, in which complete automation of the development to operational process takes place.
 <br>
-In DevOps, reliability engineers are responsible for all of their work from testing to staging. <b>By owninga feature or code change fromcradle to grave (from inception todeployment)</b>, the burden is on thedeveloper. This burden means thatwhen things break, the developeris the one who gets the support calland must fix the issue, no matterwhat time of day. "You are the Support person". That is, developers have the power and freedom to deploy changes at their own behest.<br>
+
+<u><b>Answer</b></u>
+
+In DevOps, reliability engineers are responsible for all of their work from testing to staging. <b>By owning
+a feature or code change from
+cradle to grave (from inception to
+deployment)</b>, the burden is on the
+developer. This burden means that
+when things break, the developer
+is the one who gets the support call
+and must fix the issue, no matter
+what time of day. "You are the Support person". That is, developers have the power and freedom to deploy changes at their own behest.<br>
 <u><strong>Netflix has no dedicated operations teams</strong></u> But all the other roles such as the QA and the developers etc, they’re embedded in the development teams.<br><br>
 <u><b>Architectural changes</b></u> <br>
 <li>Netflix achieves this integration through a microservices architecture that requires teams to build APIs that they maintain and ensure are stable from change to change.</li>
 <li>Google enforces team service communication through a common API type and a defined data type that all services must use.</li>
 <li>With defined communication standards, teams are free to build what they need to accomplish their tasks, in whatever way is the most efficient for them.</li>
-
-
  </li>
 
-
 </ul>
-
+<br>
 <li>Explain the principle of "Every Feature is an Expertiment"
-	<br><b><u>Answer</u></b>
+	<br>
+	<b><u>Answer</u></b>
 	<ul>
 	<li>
 	Every Feature is an Expertiment is one of The Top 10 Adages in Continuous Deployment. With continuous deployment, developers treat every planned feature as an experiment, allowing some deployed features to die.
 	</li>
 	<li>For example, on Netflix.com, if not enough people hover over a new element, a new experiment might move the element to a new location on the screen.</li>
 	<li>
-	Generally, the companies collect statisticson every aspect of the software. However, there are challenges associated to it too.<br> For example, Netflix initially collected 1.2 million metrics related to its streaming services, but that soon ballooned to 1 billion metrics. Not only could the in-memory data store no longer keep up, but the company also had to more carefully consider what data was essential for experimentation
+	Generally, the companies collect statistics
+on every aspect of the software. However, there are challenges associated to it too.<br> For example, Netflix initially collected 1.2 million metrics related to its streaming services, but that soon ballooned to 1 billion metrics. Not only could the in-memory data store no longer keep up, but the company also had to more carefully consider what data was essential for experimentation
 	</li>
 	
 	</ul>
 
 </li>
-
+<br>
 <li>Explain the principle of Be Fast to Deploy, Slow(er) to Release.</li>
 <b><u>Answer</u></b>
 <ul>
