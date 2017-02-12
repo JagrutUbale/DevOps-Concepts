@@ -1,44 +1,4 @@
-
-## Link to the Profiles: 
-
-  * [Moodle Profile](https://moodle-courses1617.wolfware.ncsu.edu/user/profile.php?id=116130)
-
-  * [@vivekbhat (Slack)](https://csc519-s17.slack.com/messages/@vivekbhat/team/vivekbhat/)
-
-
-##Learning Git (20)
-
-* **Introduction Sequence (5%)**
-* **Ramping Up (5%)**
-* **Moving Work Around (5%)**
-* **A Mixed Bag (5%)**
-
-![Learning Git-_MAIN_](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/1.png)
-
-* For <u>**Extra Credit**</u>, complete <b><u>"Advanced Topics". (5%)</b></u>
-<br>
-
-![Extra Credits](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/2.png)
-
-
-* **Remote:**
-<br>
-
-![Extra](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/3.png)
-
-
-##Hooks (20)
-
-   * The link to the hook Script can be found here
-      
-	 [LINK to hook file ](https://github.ncsu.edu/vbhat/HW0/blob/master/resources/post-commit)
-
-##Screencast (20)
-
-* [Sreencast](https://youtu.be/pOWYzFxqKT4)
-
-
-##Concepts (20)
+##Concepts
 
 
 <ol>
@@ -82,7 +42,6 @@ what time of day. "You are the Support person". That is, developers have the pow
 <li>Netflix achieves this integration through a microservices architecture that requires teams to build APIs that they maintain and ensure are stable from change to change.</li>
 <li>Google enforces team service communication through a common API type and a defined data type that all services must use.</li>
 <li>With defined communication standards, teams are free to build what they need to accomplish their tasks, in whatever way is the most efficient for them.</li>
- </li>
 
 </ul>
 <br>
@@ -115,7 +74,7 @@ on every aspect of the software. However, there are challenges associated to it 
 <li>
 <b>Important</b>: Companies must spend extra engineering effort to ensure that delayed-release strategies and testing during production don’t negatively affect the user experience.
 </li>
-</li>
+
 </ul>
 </ol>
 
